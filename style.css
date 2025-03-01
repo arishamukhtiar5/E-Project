@@ -103,4 +103,16 @@
       font-size: 20px;
     }
   }
+
+  .hero_section{
+    background-color: red;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .hero_section h1{
+    color: white;
+    font-size: 50px;
+  }
   
